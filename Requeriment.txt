@@ -1,0 +1,7 @@
+1. Sistem dapat menampilkan pilihan menu
+2. Sistem dapat menampilkan saldo sesudah transaksi
+3. Sistem dapat menampilkan saldo
+4. Sistem dapat melakukan perhitungan dengan cepat
+5. Sistem akan membatasi transaksi dengan menyimpan sisa saldo Rp50.000
+6. Sistem akan memberi notifikasi jika nominal yang di input bernilai negatif
+7. Sistem akan melakukan pengulangan untuk transaksi berikutnya
